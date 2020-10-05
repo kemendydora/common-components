@@ -1,1 +1,1 @@
-# common-components
+a simple footer
